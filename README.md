@@ -16,7 +16,7 @@ I’m a software engineer and front-end web developer passionate about creating 
 - React.js,java and back-end development (Node.js and MongoDB,)
 
 ### 📨 Let’s Connect
-- ♾️: [LinkedIn](www.linkedin.com/in/gokulraj71845)
+- ♾️: [LinkedIn](https://www.linkedin.com/in/gokulraj71845/)
 - 📨: [email](mailto:g8417874@gmail.com)
 - 🌐: [Portfolio](https://gokulraj-m.netlify.app/)
 
