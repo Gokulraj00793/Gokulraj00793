@@ -1,4 +1,4 @@
-# Hi, I'm Gokulraj 👋
+## Hi 👋, I'm Gokulraj 
 
 ### 👤 About me
 
@@ -11,7 +11,7 @@ I’m a software engineer and front-end web developer passionate about creating 
 - **Tools**: Git, GitHub, VS Code , Netlify , Canva.
 - **Databases**:MySQL, MongoDB (basic knowledge).
 - **Other**:  APIs.
-- 
+
 ### ♾️ Currently Learning
 - React.js,java and back-end development (Node.js and MongoDB,)
 
