@@ -5,7 +5,7 @@
 I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in React,MySQL and web development.
 
 ### 💻 Technologies I Use
-- **Languages**: JavaScript, Java,C, HTML, CSS.
+- **Languages**: JavaScript, Java, HTML, CSS.
 - **Front-end**: React, Tailwind CSS.
 - **Back-end**: Node.js (still learning).
 - **Tools**: Git, GitHub, VS Code , Netlify , Canva.
