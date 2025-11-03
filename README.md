@@ -1,10 +1,10 @@
-## Hi 👋, I'm Gokulraj 
+## Hi , I'm Gokulraj 
 
-### 👤 About me
+### About me
 
 I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in React,MySQL and web development.
 
-### 💻 Technologies I Use
+### Technologies I Use
 - **Languages**: JavaScript, Java, HTML, CSS.
 - **Front-end**: React, Tailwind CSS.
 - **Back-end**: Node.js (still learning).
@@ -12,10 +12,10 @@ I’m a software engineer and front-end web developer passionate about creating 
 - **Databases**:MySQL, MongoDB (basic knowledge).
 - **Other**:  APIs.
 
-### ♾️ Currently Learning
+### Currently Learning
 - React.js,java and back-end development (Node.js and MongoDB,)
 
-### 📨 Let’s Connect
+###  Let’s Connect
 - ♾️: [LinkedIn](https://www.linkedin.com/in/gokulraj71845/)
 - 📨: [email](mailto:g8417874@gmail.com)
 - 🌐: [Portfolio](https://gokulraj-m.netlify.app/)
