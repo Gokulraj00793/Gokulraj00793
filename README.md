@@ -7,13 +7,11 @@ I’m a software engineer and front-end web developer passionate about creating 
 ### Technologies I Use
 - **Languages**: JavaScript, Java, HTML, CSS.
 - **Front-end**: React, Tailwind CSS.
-- **Back-end**: Node.js (still learning).
 - **Tools**: Git, GitHub, VS Code , Netlify , Canva.
-- **Databases**:MySQL, MongoDB (basic knowledge).
-- **Other**:  APIs.
+- **Databases**:MySQL.
 
 ### Currently Learning
-- React.js,java and back-end development (Node.js and MongoDB,)
+- DSA in Java.
 
 ###  Let’s Connect
 - ♾️: [LinkedIn](https://www.linkedin.com/in/gokulraj71845/)
