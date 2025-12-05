@@ -2,7 +2,7 @@
 
 ### About me
 
-I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in React,MySQL and web development.
+I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in Java with DSA, React, MySQL and web development.
 
 ### Technologies I Use
 - **Languages**: JavaScript, Java, HTML, CSS.
