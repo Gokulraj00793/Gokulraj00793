@@ -2,12 +2,13 @@
 
 ### About me
 
-I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in Java with DSA, React, MySQL and web development.
+I’m a software engineer and front-end web developer passionate about creating dynamic, responsive websites. Currently, I'm focused on honing my skills in Java with DSA and web development.
 
 ### Technologies I Use
-- **Languages**: JavaScript, Java, HTML, CSS.
-- **Front-end**: React, Tailwind CSS.
-- **Tools**: Git, GitHub, VS Code , Netlify , Canva.
+- **Languages**: Java
+- **Front-end**: HTML | Tailwind CSS.
+- **Tools**:Postman | Firebase | Canva.
+.
 - **Databases**:MySQL.
 
 ### Currently Learning
