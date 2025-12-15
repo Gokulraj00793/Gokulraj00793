@@ -19,8 +19,6 @@ I’m a software engineer and front-end web developer passionate about creating 
 - 📨: [email](mailto:g8417874@gmail.com)
 - 🌐: [Portfolio](https://gokulraj-m.netlify.app/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulraj00793&label=Profile%20views&color=0e75b6&style=flat" alt="gokulraj00793" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulraj00793" alt="gokulraj00793" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -33,7 +31,6 @@ I’m a software engineer and front-end web developer passionate about creating 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulraj00793&show_icons=true&locale=en" alt="gokulraj00793" /></p>
 
 
-[![Gokulraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gokulraj00793&bg_color=121112&color=e3d9e2&line=06b741&point=e3d3d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
